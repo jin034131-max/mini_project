@@ -1,3 +1,12 @@
+#PROJECT-IV
+#GROUP-G,
+Biringa Raj Saikia ---North Lakhimapur University.
+Janmoni Pathori ----Dhemaji College.
+Khodyot Jyoti Dutta ----Guwahati College.
+Rahul Missong ----Dhemaji College.
+Trishna Hiloidari ----North Lakhimapur University.  
+Munna Ahmed ----Guwahati College.
+
 # Solar Energy Data Analysis - Mini Project
 
 ## Project Description
