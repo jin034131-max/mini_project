@@ -2,7 +2,7 @@
 
 ## Project Description
 This project analyzes solar energy data to understand patterns, efficiency, and weather impact.  
-Used Python for data cleaning, analysis and visualisation.
+Used Python for data analysis and visualisation.
 
 ## Files in this Project
 - **main.py** - Main file to run the analysis
